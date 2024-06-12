@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michealmachine
 - 👀 I’m interested in video gaming
-- 🌱 I’m currently learning java web,data structure,css ...
+- 🌱 I’m currently learning java web,kotlin,data structure,css ...
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me micheal0machine@gmail.com
 
